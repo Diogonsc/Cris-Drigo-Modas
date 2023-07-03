@@ -1,0 +1,20 @@
+/**
+ * src/styles/settings.scss
+ *
+ * Configures SASS variables and Vuetify overwrites
+ */
+
+// https://vuetifyjs.com/features/sass-variables/`
+// @use 'vuetify/settings' with (
+//   $color-pack: false
+// );
+
+// Ajustando o height para 48px por padrão
+.v-field__field {
+    flex: 1 0;
+    grid-area: field;
+    position: relative;
+    align-items: flex-start;
+    display: flex;
+    height: 48px;
+}

@@ -1,0 +1,27 @@
+{
+  "usuarios": [
+    {"email": "crisdrigomodas@gmail.com", "password": "0123456"}
+  ],
+  "clientes": [
+    {
+      "nome": "Nilza dos Santos Nascimento",
+      "email": "nilza@teste.com",
+      "telefone": "21995971680",
+      "cep": "23033180",
+      "endereco": "Rua Porto de Moz",
+      "bairro": "Guaratiba",
+      "numero": "143",
+      "id": 1
+    },
+    {
+      "nome": "Luana Silva da Camara Nascimento",
+      "email": "luanansc@yahoo.com",
+      "telefone": "21995971680",
+      "cep": "23550351",
+      "endereco": "Rua Auristela",
+      "bairro": "Santa Cruz",
+      "numero": "211",
+      "id": 4
+    }
+  ]
+}
